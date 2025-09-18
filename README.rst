@@ -18,11 +18,15 @@ more stable version, have a look at the Releases_ page.
 Windows binaries will be published on the official `Facebook page`_.
 OSX binaries are not available yet.
 
-Python3/PyQt6 Migration
------------------------
+*Python3/PyQt6 Migration*
+-------------------------
 
 Initially based on some AI supported steps.
+
 Still far away from usable.
+
+Use ``--rtmidi`` for best results (for now).
+
 
 Linux installation
 ------------------
