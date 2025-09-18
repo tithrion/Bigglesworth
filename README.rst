@@ -18,13 +18,21 @@ more stable version, have a look at the Releases_ page.
 Windows binaries will be published on the official `Facebook page`_.
 OSX binaries are not available yet.
 
+Python3/PyQt6 Migration
+-----------------------
+
+Initially based on some AI supported steps.
+Still far away from usable.
+
 Linux installation
 ------------------
 
-- Python 2.7
-- PyQt4
+- Python 3
+- PyQt6
 - unidecode python module (`Project page <https://pypi.org/project/Unidecode/>`__)
 - python-rtmidi (`Project page <http://trac.chrisarndt.de/code/wiki/python-rtmidi>`__)
+- soundfile python module
+- pyalsa python module
 
 Download the code or clone this tree, then just run ``Bigglesworth.py``.
 
